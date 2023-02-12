@@ -1,0 +1,17 @@
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\bin\Debug\net6.0-windows\FacturacionProductos.exe
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\bin\Debug\net6.0-windows\FacturacionProductos.deps.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\bin\Debug\net6.0-windows\FacturacionProductos.runtimeconfig.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\bin\Debug\net6.0-windows\FacturacionProductos.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\bin\Debug\net6.0-windows\FacturacionProductos.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.csproj.AssemblyReference.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.Form1.resources
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.csproj.GenerateResource.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.AssemblyInfoInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.AssemblyInfo.cs
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.csproj.CoreCompileInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\refint\FacturacionProductos.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\FacturacionProductos.genruntimeconfig.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\FacturacionProductos\FacturacionProductos\obj\Debug\net6.0-windows\ref\FacturacionProductos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FacturacionProductos/1.0.0": {
+        "runtime": {
+          "FacturacionProductos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FacturacionProductos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\bin\Debug\net6.0-windows\SacarPromedioDeNumeros.exe
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\bin\Debug\net6.0-windows\SacarPromedioDeNumeros.deps.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\bin\Debug\net6.0-windows\SacarPromedioDeNumeros.runtimeconfig.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\bin\Debug\net6.0-windows\SacarPromedioDeNumeros.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\bin\Debug\net6.0-windows\SacarPromedioDeNumeros.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.csproj.AssemblyReference.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.Form1.resources
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.csproj.GenerateResource.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.AssemblyInfoInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.AssemblyInfo.cs
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\refint\SacarPromedioDeNumeros.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\SacarPromedioDeNumeros.genruntimeconfig.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\SacarPromedioDeNumeros\SacarPromedioDeNumeros\obj\Debug\net6.0-windows\ref\SacarPromedioDeNumeros.dll

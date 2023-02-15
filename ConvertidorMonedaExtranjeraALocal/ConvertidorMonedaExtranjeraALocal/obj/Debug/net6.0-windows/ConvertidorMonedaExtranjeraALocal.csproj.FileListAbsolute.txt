@@ -1,0 +1,17 @@
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\bin\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.exe
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\bin\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.deps.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\bin\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.runtimeconfig.json
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\bin\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\bin\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.csproj.AssemblyReference.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.Form1.resources
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.csproj.GenerateResource.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.AssemblyInfoInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.AssemblyInfo.cs
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.csproj.CoreCompileInputs.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\refint\ConvertidorMonedaExtranjeraALocal.dll
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.pdb
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ConvertidorMonedaExtranjeraALocal.genruntimeconfig.cache
+C:\Users\PC-Home\Documents\Aprendiendo CSharp\PrimerosPasos\ConvertidorMonedaExtranjeraALocal\ConvertidorMonedaExtranjeraALocal\obj\Debug\net6.0-windows\ref\ConvertidorMonedaExtranjeraALocal.dll
